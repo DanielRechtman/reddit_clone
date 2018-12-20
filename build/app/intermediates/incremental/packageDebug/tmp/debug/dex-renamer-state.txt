@@ -1,0 +1,4 @@
+#Sun Dec 09 19:21:46 EST 2018
+base.0=/home/dan/workspace/flutter-dev/bRedditc/bredditc/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
